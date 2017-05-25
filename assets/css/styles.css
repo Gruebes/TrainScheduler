@@ -1,0 +1,33 @@
+@font-face {
+    /*font-family: fontName;*/
+    /*src: url(../fonts/fontName.ttf);*/
+    /*font-weight: bold;*/
+}
+
+body {
+/*	background: url('../images/background.jpg')no-repeat center center fixed;
+	background-size: cover;
+	height: 100%;*/
+}
+
+.tron {
+	margin-top: 30px;
+	padding: 40px 0;
+}
+
+.imageContainer {
+	position: absolute;
+	display: none;
+    bottom: 19%;
+    right: 15%;
+	z-index: ;
+	height: 295px;
+	width: 260px;
+	background-size: 260px;
+	background: url('http://image') no-repeat;
+}
+
+
+@media (max-width: 350px) { 
+
+}
